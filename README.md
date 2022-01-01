@@ -1,16 +1,27 @@
-# Metaverse Challenge chat app
+# Next.js + Tailwind CSS Example
 
-This is a decentralized chat app build with next js and moralise to connect with a metamask wallet,at the occasion of the 5 days challenge organized by sony sangha.
+This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
- [DEMO](https://metaverse-challenge-three.vercel.app/).
+## Preview
 
- # Preview 
+Preview the example live on [StackBlitz](http://stackblitz.com/):
 
- <img src="./public/assets/preview/Capture.PNG">
- <img src="./public/assets/preview/Capture12.PNG">
-  <img src="./public/assets/preview/Capture13.PNG">
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-  # Required
+## Deploy your own
 
-  - Metamask account [link](https://metamask.io/)
-  - download and install Metamask plugin on to your browser.
+Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+
+## How to use
+
+Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+
+```bash
+npx create-next-app --example with-tailwindcss with-tailwindcss-app
+# or
+yarn create next-app --example with-tailwindcss with-tailwindcss-app
+```
+
+Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
